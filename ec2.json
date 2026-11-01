@@ -1,0 +1,5 @@
+{statement 
+	sid: "creating new"
+	principle: "*"
+	action: "s3:object"
+
