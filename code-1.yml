@@ -2,3 +2,5 @@
 -name : creating ec2
 -host: web-server
  task: ///////////
+  - name: ubuntu
+  - service: started
